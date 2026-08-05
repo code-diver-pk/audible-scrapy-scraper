@@ -54,10 +54,6 @@ scrapy crawl audible -o audible_books.csv
 
 The project can write scraped book data to `audible_books.csv`.
 
-## Screenshots
-
-Placeholder for scraper screenshots.
-
 ## Learning Outcomes
 
 - Building a maintainable Scrapy project
