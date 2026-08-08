@@ -1,5 +1,7 @@
 # Audible Scrapy Scraper
 
+[Portfolio](https://github.com/code-diver-pk/web-scraping-portfolio) • Business Email: lifenotsay@gmail.com
+
 A professional Scrapy project that extracts audiobook product listings using a resilient crawler pipeline and adaptive request headers.
 
 ## Professional Overview
@@ -102,10 +104,15 @@ Columns:
 
 ## Future Improvements
 
-- Add item pipelines for database storage
-- Add logging and metrics for crawl performance
-- Add retry logic for request failures
-- Add more detailed field extraction
+- Add dedicated pipelines for CSV, JSON, and database exports
+- Add smart retry/backoff logic for transient request failures
+- Add rotating proxy support for larger ecommerce crawls
+- Add structured metadata extraction for categories, ratings, and publishers
+
+## Contact
+
+- Portfolio: https://github.com/code-diver-pk/web-scraping-portfolio
+- Business Email: lifenotsay@gmail.com
 
 ## License
 
